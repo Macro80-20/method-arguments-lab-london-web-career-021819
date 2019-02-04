@@ -4,4 +4,4 @@ def restaurant
   motto = "Welcome to Flavor Town!"
 end
 
-restaurant
+restaurant()
